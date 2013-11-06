@@ -274,6 +274,6 @@ p {
     margin: 10px 5px;
 }
 
-.nav {
+.nav, .footer {
     display:none
 }
