@@ -1,4 +1,0 @@
-WebSite
-=======
-
-Corporate web site

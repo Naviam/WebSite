@@ -1,22 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Naviam", ".", "{73F4375A-5E42-4447-B2F2-7D847001179E}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite", ".", "{73F4375A-5E42-4447-B2F2-7D847001179E}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/Naviam"
-		Debug.AspNetCompiler.PhysicalPath = "..\Naviam\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Naviam\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/Naviam"
-		Release.AspNetCompiler.PhysicalPath = "..\Naviam\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Naviam\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "7973"
 	EndProjectSection
