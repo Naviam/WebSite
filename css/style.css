@@ -75,7 +75,6 @@ a:hover, a:focus {
     color:#949494
 }
 
-
 .carousel-caption {
     background:none repeat scroll 0 0 rgba(255, 255, 255, 0.0);
     max-width: 420px; 
@@ -294,4 +293,44 @@ p {
 .tech .container {
     background: url(../img/tech.png) no-repeat center;
     height:150px;
+}
+
+.title {
+    color: #1C53BA;
+}
+
+.ViTitle {
+    background: url(../img/Vi.png) no-repeat left center;
+    color: #ef7c00;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    padding: 10px 0 5px 30px;
+    font-size:14pt;
+    height:15px;
+}
+
+.firm {
+    color:#000;
+    font-weight: bold;
+    padding-left:30px;
+}
+
+.contacts_row {
+    padding-left: 30px;
+}
+
+.contacts_row a {
+    color:#000
+}
+
+.sub_container {
+    background: url(../img/sitemap.png) no-repeat left top;
+    padding-left:150px;
+    margin-left:15px;
+}
+
+.map {
+    background: url(../img/map.jpg) no-repeat;
+    height: 320px;
+    margin: 20px 0;
 }
