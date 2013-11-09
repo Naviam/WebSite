@@ -128,7 +128,6 @@ p {
     text-align: right;
     font-family:Tahoma;
     font-weight: bold;
-    display:none
 }
 
 .learn a {
@@ -261,7 +260,8 @@ p {
 }
 
 .footer {
-    background-color:#e4e2e2
+    background-color:#e4e2e2;
+    color: #6A6565;
 }
 .footer .span2 {
     width:180px
@@ -274,6 +274,24 @@ p {
     margin: 10px 5px;
 }
 
-.nav, .footer {
-    display:none
+.footer {
+    list-style-image:url(../img/li.png)
+}
+
+.footer a {
+    color:#6a6565;
+}
+
+.footer a:hover {
+    color:#ef7c00;
+}
+
+.tech {
+    background: url(../img/tech_bg.png) repeat-x;
+    height:152px;
+}
+
+.tech .container {
+    background: url(../img/tech.png) no-repeat center;
+    height:150px;
 }
