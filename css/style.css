@@ -3,6 +3,10 @@
     max-width: 1024px;
 }
 
+li {
+    font-family:Century Gothic;
+}
+
 .topper {
     background-color: #e4e2e2;
     height:81px;
