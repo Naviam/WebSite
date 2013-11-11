@@ -3,7 +3,7 @@
     max-width: 1024px;
 }
 
-li {
+.row li {
     font-family:Century Gothic;
 }
 
@@ -16,11 +16,6 @@ li {
 .topper .container {
     width: 1024px;
     margin: 0 auto;
-}
-
-.logo {
-    background: url(../img/logo.png) no-repeat;
-    height:81px
 }
 
 .container {
