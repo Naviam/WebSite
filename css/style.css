@@ -417,7 +417,7 @@ label {
     height: 130px;
 }
 
-.block .span7 {
+.sub_container .block .span7 {
     width:600px;
 }
 
@@ -448,4 +448,37 @@ label {
 
 .block {
     text-align:justify
+}
+
+.sub_container .span7 {
+    width: 650px;
+}
+
+.web {
+    background: url(../img/world.png) no-repeat bottom center;
+    height:160px;
+}
+
+.mobile {
+    background: url(../img/mobile.png) no-repeat center;
+    height:160px;
+}
+
+.cloud {
+    background: url(../img/cloud.png) no-repeat bottom center;
+    height:132px;
+}
+
+.title_bg {
+    background-color:#F9F9F9;
+    height:40px;
+}
+
+.title_bg .ViTitle {
+    margin-left: 5px;
+    padding: 10px 0 10px 30px;
+}
+
+.sub_container .span7 p {
+    margin: 10px 0;
 }
