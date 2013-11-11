@@ -405,3 +405,47 @@ label {
 .sub_container {
     list-style-image:url(../img/li.png)
 }
+
+.how_title {
+    text-transform: uppercase;
+    color:#1C53BA;
+    margin: 15px 0 15px 15px;
+}
+
+.transparency {
+    background:url(../img/transparency.png) no-repeat center;
+    height: 130px;
+}
+
+.block .span7 {
+    width:600px;
+}
+
+.block .span2 {
+    width: 200px;
+}
+
+.block {
+    background-image: linear-gradient(to bottom, #fbfbfb, #E1DFDF);
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.quality {
+    background:url(../img/quality.png) no-repeat center;
+    height:170px;
+}
+
+.collaboration {
+    background:url(../img/collaboration.png) no-repeat center;
+    height:150px;
+}
+
+.iteration {
+    background:url(../img/iteration.png) no-repeat center;
+    height:170px;
+}
+
+.block {
+    text-align:justify
+}
