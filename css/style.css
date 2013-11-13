@@ -226,7 +226,8 @@ p {
 .main_footer .logo_footer {
     background: url(../img/logo_footer.png) no-repeat top center;
     color: #fff;
-    padding:40px 0px 0px 58px;
+    padding-top:40px;
+    text-align:center
 }
 
 .main_footer p {
@@ -480,4 +481,88 @@ label {
 
 .sub_container .span7 p {
     margin: 10px 0;
+}
+
+.sub_container .span3 {
+    width: 190px;
+}
+
+.photo1 {
+    background: url(../img/photo1.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo2 {
+    background: url(../img/photo2.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo3 {
+    background: url(../img/photo3.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo4 {
+    background: url(../img/photo4.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo5 {
+    background: url(../img/photo5.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo6 {
+    background: url(../img/photo6.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo7 {
+    background: url(../img/photo7.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo8 {
+    background: url(../img/photo8.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo9 {
+    background: url(../img/photo9.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo10 {
+    background: url(../img/photo10.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo11 {
+    background: url(../img/photo11.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo12 {
+    background: url(../img/photo12.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo13 {
+    background: url(../img/photo13.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo14 {
+    background: url(../img/photo14.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo15 {
+    background: url(../img/photo15.jpg) no-repeat center;
+    height:200px;
+}
+
+.photo16 {
+    background: url(../img/lars.jpg) no-repeat center;
+    height:200px;
 }
