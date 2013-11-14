@@ -63,10 +63,11 @@ a:hover, a:focus {
 }
 
 .carousel-control {
-    background:none;
+    background:none repeat scroll 0 0 rgba(255, 255, 255, 0.0);
     border:none;
     color:#949494;
     margin: 0 20px;
+    padding: 20px 0;
     font-size: 120px;
 }
 
@@ -74,11 +75,12 @@ a:hover, a:focus {
     color:#949494
 }
 
+
 .carousel-caption {
     background:none;
     max-width: 420px; 
     margin:0 auto;
-    left:650px;
+    left:60% !important;
     top:90px;
 }
 
@@ -422,7 +424,7 @@ label {
 }
 
 .block .span2 {
-    width: 200px;
+    width: 195px !important;
 }
 
 .block {
