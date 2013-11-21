@@ -426,7 +426,6 @@ label {
 }
 
 .block {
-    background-image: linear-gradient(to bottom, #fbfbfb, #E1DFDF);
     padding: 10px;
     margin: 10px 0;
 }
@@ -472,6 +471,7 @@ label {
 .title_bg {
     background-color:#F9F9F9;
     height:40px;
+    margin-bottom: 10px;
 }
 
 .title_bg .ViTitle {
